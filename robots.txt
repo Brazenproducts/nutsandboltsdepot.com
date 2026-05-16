@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nutsandboltsdepot.com/sitemap.xml
